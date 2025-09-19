@@ -9,6 +9,7 @@
         </p>
 
         <div class="navbar-end">
+            <baseThemeToggle />
             <NuxtLink class="btn btn-accent" to="/">Sign In</NuxtLink>
         </div>
     </div>
